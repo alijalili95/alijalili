@@ -16,7 +16,7 @@ body {
 h1 {
   filter: drop-shadow(0px 0px 50px #6e6e6e);
   font-family: "Abdoullah";
-  font-size: 23pt;
+  font-size: 27pt;
   margin: 5px;
 }
 h2 {
@@ -24,7 +24,7 @@ h2 {
   font-family: "sayeh";
   margin: 5px;
   color: #ccc;
-  font-size: 20pt;
+  font-size: 24pt;
 }
 .whole-l {
   height: 100vh;
@@ -55,13 +55,13 @@ h2 {
 }
 .phone .img {
   filter: drop-shadow(0px 3px 8px #6e6e6e);
-  width: 90%;
+  width: 84%;
 }
 
 .socials {
-  height: 90%;
+  height: 85%;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
 }
 .so-container {
   display: flex;
@@ -102,8 +102,8 @@ h2 {
 }
 
 .so-container img {
-  height: 30px;
-  width: 30px;
+  height: 35px;
+  width: 35px;
 }
 .img img {
   object-fit: contain;
