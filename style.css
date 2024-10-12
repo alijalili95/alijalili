@@ -16,15 +16,15 @@ body {
 h1 {
   filter: drop-shadow(0px 0px 50px #6e6e6e);
   font-family: "Abdoullah";
-  font-size: 27pt;
-  margin: 5px;
+  font-size: 33pt;
+  margin: 7px;
 }
 h2 {
   /* filter: drop-shadow(0px 0px 12px #6e6e6e); */
   font-family: "sayeh";
-  margin: 5px;
+  margin: 7px;
   color: #ccc;
-  font-size: 24pt;
+  font-size: 30pt;
 }
 .whole-l {
   height: 100vh;
@@ -47,7 +47,7 @@ h2 {
 .hero {
   display: flex;
   justify-content: center;
-  height: 60vh;
+  height: 66vh;
 }
 .phone {
   display: flex;
@@ -55,7 +55,7 @@ h2 {
 }
 .phone .img {
   filter: drop-shadow(0px 3px 8px #6e6e6e);
-  width: 84%;
+  width: 81%;
 }
 
 .socials {
