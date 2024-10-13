@@ -24,7 +24,7 @@ h2 {
   font-family: "sayeh";
   margin: 7px;
   color: #ccc;
-  font-size: 30pt;
+  font-size: 26pt;
 }
 .whole-l {
   height: 100vh;
@@ -52,7 +52,7 @@ h2 {
 .phone {
   display: flex;
   flex-direction: row;
-  gap: 15px;
+  gap: 11px;
 }
 .phone .img {
   filter: drop-shadow(0px 3px 8px #6e6e6e);
@@ -60,16 +60,14 @@ h2 {
 }
 
 .socials {
-  height: 85%;
+  height: 95%;
   display: flex;
   align-items: flex-end;
 }
 .so-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-
-  height: 85%;
+  justify-content: flex-end;
 }
 /* .one {
   filter: drop-shadow(0px 0px 25px #f61d0e);
