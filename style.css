@@ -48,6 +48,7 @@ h2 {
   display: flex;
   justify-content: center;
   height: 66vh;
+  align-items: center;
 }
 .phone {
   display: flex;
